@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Martin]
-  first_name: [Stacey, Servito]
+  last_name: ["Martin"]
+  first_name: ["Stacey", "Servito"]
 
   style: apa
   locale: en
