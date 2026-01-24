@@ -9,9 +9,10 @@ nav_order: 3
 
 Op-Eds and Media
 
-
+<p>
 <b>Publications</b>
-Martin, S.S., P.R. Cummins, J.D. Griffin, D. Clark, and T.I. Allen (2024), Resolving the location and magnitude of the 1918 Queensland (Bundaberg), Australia, earthquake, Bulletin of the Seismological Society of America, 114 (6), 3202-3223.
+</p>
+<b>Martin, S.S.</b>, P.R. Cummins, J.D. Griffin, D. Clark, and T.I. Allen (2024), Resolving the location and magnitude of the 1918 Queensland (Bundaberg), Australia, earthquake, <i>Bulletin of the Seismological Society of America</i>, <b>114</b> (6), 3202-3223. DOI: <a href ="https://doi.org/10.1785/0120240029">10.1785/0120240029 </a>.
 
 Allen, T.I., J.D. Griffin, D. Clark, P.R. Cummins, H. Ghasemi, R. Ebrahimi, S.S. Martin (2024), The 2023 update to the Australian National Seismic Hazard Assessment: Philosophy and model changes, 18th World Conference on Earthquake Engineering (WCEE24), Milan.
 
