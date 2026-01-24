@@ -67,17 +67,17 @@ nav_order: 3
 
 <p>Singh, S.K., G. Suresh, R.S. Dattatrayam, H.P. Shukla, <strong>S.S. Martin</strong>, J. Havskov, X. Perez-Campos and A. Iglesias (2013), <a href="https://www.jstor.org/stable/24098224" target="_blank">1960 Delhi earthquake: Epicentre, depth and magnitude</a>, <i>Current Science</i>, 105 (8), 1155–1165.</p>
 
-<p><strong>Martin, S.S.</strong> and D.M. Kakar (2012), <a href="https://doi.org/10.1785/0120110221" target="_blank">The 19 January 2011 Mw 7.2 Dalbandin Earthquake, Balochistan</a>, <i>Bulletin of the Seismological Society of America</i>, 102 (4), 1810–1819.</p>
+<p><strong>Martin, S.S.</strong> and D.M. Kakar (2012), <a href="https://pubs.geoscienceworld.org/bssa/article/102/4/1810-1819/350017" target="_blank">The 19 January 2011 Mw 7.2 Dalbandin Earthquake, Balochistan</a>, <i>Bulletin of the Seismological Society of America</i>, 102 (4), 1810–1819.</p>
 
-<p>Szeliga, W., S.E. Hough, <strong>S.S. Martin</strong>, and R. Bilham (2010), <a href="https://doi.org/10.1785/0120080329" target="_blank">Intensity, magnitude, location and attenuation in India for felt earthquakes since 1762</a>, <i>Bulletin of the Seismological Society of America</i>, 100 (2), 570–584.</p>
+<p>Szeliga, W., S.E. Hough, <strong>S.S. Martin</strong>, and R. Bilham (2010), <a href="https://pubs.geoscienceworld.org/bssa/article/100/2/570-584/349371" target="_blank">Intensity, magnitude, location and attenuation in India for felt earthquakes since 1762</a>, <i>Bulletin of the Seismological Society of America</i>, 100 (2), 570–584.</p>
 
-<p><strong>Martin. S.S.</strong> and W. Szeliga (2010), <a href="https://doi.org/10.1785/0120080328" target="_blank">A catalog of felt intensity data for 589 earthquakes in India, 1636-2008</a>, <i>Bulletin of the Seismological Society of America</i>, 100 (2), 536–569.</p>
+<p><strong>Martin. S.S.</strong> and W. Szeliga (2010), <a href="https://pubs.geoscienceworld.org/bssa/article/100/2/562-569/349363" target="_blank">A catalog of felt intensity data for 589 earthquakes in India, 1636-2008</a>, <i>Bulletin of the Seismological Society of America</i>, 100 (2), 536–569.</p>
 
 <p><strong>Martin, S.S.</strong> (2005), <a href="https://doi.org/10.1785/gssrl.76.3.321" target="_blank">Intensity Distribution from the 2004 M9.0 Sumatra-Andaman Earthquake</a>, <i>Seismological Research Letters</i>, 76 (3), 321–330.</p>
 
 <p>Hough, S.E., <strong>S.S. Martin</strong>, R. Bilham, and G. Atkinson (2003), <a href="https://doi.org/10.1007/BF02709262" target="_blank">A media-based assessment of damage and ground motions from the January 26th 2001 M7.6 Bhuj, India earthquake</a>, <i>Journal of Earth System Science</i>, 112 (3), 353–375.</p>
 
-<p>Hough, S.E. and <strong>S.S. Martin</strong> (2002), <a href="https://doi.org/10.1785/0120010226" target="_blank">Magnitude estimates of two large aftershocks of the 16 December, 1811 New Madrid earthquake</a>, <i>Bulletin of the Seismological Society of America</i>, 92 (8), 3259–3268.</p>
+<p>Hough, S.E. and <strong>S.S. Martin</strong> (2002), <a href="https://pubs.geoscienceworld.org/bssa/article/92/8/3259-3268/103061" target="_blank">Magnitude estimates of two large aftershocks of the 16 December, 1811 New Madrid earthquake</a>, <i>Bulletin of the Seismological Society of America</i>, 92 (8), 3259–3268.</p>
 
 <p>Hough, S.E., <strong>S.S. Martin</strong>, R. Bilham and G. Atkinson (2002), <a href="https://doi.org/10.1785/0120010260" target="_blank">The 26 January, 2001 Bhuj, India, earthquake: observed and predicted ground motions</a>, <i>Bulletin of the Seismological Society of America</i>, 92 (2), 2061–2079.</p>
 
