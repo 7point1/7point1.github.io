@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/outreach/";
           },
-        },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+        },{id: "projects-gempa-nusantara",
+          title: 'Gempa Nusantara',
+          description: "Macroseismic observations and intensities for historical earthquakes in Indonesia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
