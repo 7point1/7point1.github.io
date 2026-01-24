@@ -18,3 +18,79 @@ nav_order: 3
 {% bibliography %}
 
 </div>
+
+Martin, S.S., P.R. Cummins, J.D. Griffin, D. Clark, and T.I. Allen (2024), Resolving the location and magnitude of the 1918 Queensland (Bundaberg), Australia, earthquake, Bulletin of the Seismological Society of America, 114 (6), 3202-3223.
+
+Allen, T.I., J.D. Griffin, D. Clark, P.R. Cummins, H. Ghasemi, R. Ebrahimi, S.S. Martin (2024), The 2023 update to the Australian National Seismic Hazard Assessment: Philosophy and model changes, 18th World Conference on Earthquake Engineering (WCEE24), Milan.
+
+Martin, S.S., T.I. Allen, P.R. Cummins, J.D. Griffin, and D. Clark (2023), Modern reappraisal of historical seismicity for seismic hazard assessment in Australia, Australian Earthquake Engineering Society Conference.
+
+Majewski, J.M, A.D. Switzer, R. Guan, B. Benazir, E. Meilianda, P.R. Parham, R. Weiss, S.S. Martin, L.K. Pearson, J.E. Pilarczyk, P. Daly, and B.P. Horton (2023), Sediment analysis and historical context of the 2018 Palu-Donggala tsunami deposit, Indonesia, Marine Geology.
+
+Hough, S.E., S.S. Martin, S. Symthie, and R. Briggs (2023), Rupture scenarios for the 3 June 1770 Haiti earthquake, Bulletin of the Seismological Society of America, 113 (1), 157-185.
+
+Yadav, R.K., S.S. Martin, and V.K. Gahalaut (2022), Intraplate seismicity and earthquake hazard in the Aravalli–Delhi Fold Belt, India, Journal of Earth System Science, 131 (4).
+
+Martin, S.S., P.R. Cummins , and A.J. Meltzner (2022), Gempa Nusantara: A database of 7380 macroseismic observations for 1200 historical earthquakes in Indonesia from 1546 to 1950, Bulletin of the Seismological Society of America, 112 (6), 2958–2980.
+
+Martin, S.S., P.R. Cummins, J.D. Griffin, D. Clark and T.I. Allen (2022), Reviewing the 1 March 1954 Adelaide earthquake, South Australia, Australian Earthquake Engineering Society Conference.
+
+Martin, S.S., and S.E. Hough (2022), The 8 April 1860 Jour de Pâques earthquake sequence in southern Haiti, Bulletin of the Seismological Society of America, 112 (5), 2468-2486.
+
+Hough, S.E. and S.S. Martin (2021), Reply to “Comment on ‘Which earthquake accounts matter?’ by S.E. Hough and S.S. Martin” by D.J. Wald, Seismological Research Letters, 93 (1), 506–511.
+
+Martin, S.S., R. Bossu, R. Steed, M. Landès, D. Srinagesh, D. Srinivas, S.E. Hough (2021), When Punjab cried wolf: How a rumor triggered an "earthquake" in India, Seismological Research Letters, 92 (6), 3887–3898.
+
+Hough, S.E. and S.S. Martin (2021), Which earthquake accounts matter? Seismological Research Letters, 92 (2A), 1069–1084.
+
+Martin, S.S., Y. Wang, M. Muzli, and S. Wei (2020), The 1922 Peninsula Malaysia earthquakes: Rare intraplate seismicity within the Sundaland Block in southeast Asia, Seismological Research Letters, 91 (5), 2531–2545.
+
+Martin, S.S. and S.E. Hough (2019), Where was the 31 October 1895 Charleston, Missouri, earthquake? Bulletin of the Seismological Society of America, 109 (4), 1479–1497.
+
+Aung, L.T., S.S. Martin, Y. Wang, S. Wei, M. Thant, K.N. Htay, H.M. Aung, T.Z. Kyaw, S. Min, K. Sithu, T. Naing, E.H.N. Myo, T.H. Oo, S. N. Khaing, G. Suresh, W. Chen, P. M. Maung, and V.K. Gahalaut (2019), A comprehensive assessment of ground motions from two 2016 intra-slab earthquakes in Myanmar, Tectonophysics, 765, 146–160.
+
+Martin, S.S., L. Li, E. Okal, J. Morin, A. Tetteroo, A. Switzer, K. Sieh (2019), Reassessment of the 1907 Sumatra “tsunami earthquake” based on macroseismic, seismological and tsunami observations, and modelling, Pure and Applied Geophysics, 176, 2831–2868.
+
+Hough, S.E. and S.S. Martin (2018), A proposed rupture scenario for the Mw 6.5 1925 Santa Barbara, California, earthquake, Tectonophysics, 747-748, 211–224.
+
+Adhikari, S.R., G. Basyal, A. Dixit, S.S. Martin, M. Landès, R. Bossu, and S.E. Hough (2017), Towards a unified near-field intensity map of the 2015 Mw 7.8 Gorkha, Nepal, Earthquake, Earthquake Spectra, 33, S1–34.
+
+Rajaure, S., D. Asimaki, E. Thompson, S. E. Hough, S.S. Martin, J.P. Ampuero, A. Inbal, M. R. Dhital, A. Inbal, N. Takai, M. Shigefuji, S. Bijukchen, M. Ichiyanagi, T. Sasatani, and, L. Paudel (2017), Characterizing the Kathmandu Valley sediment response through strong motion recordings of the 2015 Gorkha Earthquake sequence, Tectonophysics, 146–157.
+
+Debbarma, J., S.S. Martin, G. Suresh, A. Ahsan, and V.K. Gahalaut (2017), A preliminary report on the Mw 5.6 Manu, Tripura (India) earthquake, Journal of Asian Earth Sciences, 148, 173–180.
+
+Bossu, R., M. Landès, F. Roussel, R. Steed, G. Mazet-Roux, S.S. Martin and S.E. Hough (2017), Thumbnail-Based Questionnaires for the Rapid and Efficient Collection of Macroseismic Data from Global Earthquakes, Seismological research Letters, 88 (1), 72–82.
+
+Hough, S.E., S.S. Martin, V.K. Gahalaut, A. Joshi, M. Landès and, R. Bossu (2016), A comparison of observed, recorded and predicted ground motions from the 2015 Gorkha, Nepal earthquake, Natural Hazards, 84 (3), 1661–1684.
+
+Gahalaut, V.K., S.S. Martin, D. Srinagesh, S. L. Kapil, G. Suresh, S. Saikia, V. Kumar, H. Dadhich, S. K. Prajapati, J. L. Gautam, P. Baidya, S. Mandal, A. Jain (2016), Seismological, geodetic, macroseismic and historical context of the 2016 Mw 6.7 Tamenglong (Manipur), India earthquake, Tectonophysics, 688, 36–48.
+
+Martin, S.S. and S. E. Hough (2016), Reply to "Comment on 'Ground Motions from the 2015 Mw 7.8 Gorkha, Nepal, Earthquake Constrained by a Detailed Assessment of Macroseismic Data' by Stacey Martin, Susan E. Hough and Charleen Hung" by Andrea Tertulliani, Laura Graziani, Corrado Castellano, Alessandra Maramai and Antonio Rossi, Seismological Research Letters, 87 (4), 957–962.
+
+Hough, S.E. and S.S. Martin (2015), The 1868 Hayward Fault earthquake: Implications for earthquake scaling relations on partially creeping faults, Bulletin of the Seismological Society of America, 106 (5), 2894–2909.
+
+Dixit, A.M., A. Ringler, D. Sumy, E. Cochran, S.E. Hough, S.S. Martin, S. Gibbons, J. Luetgert, J. Galetzka, S.N. Shrestha, S. Rajaure, and D. McNamara (2015), Strong motion recordings of the M7.8 Gorkha, Nepal, earthquake sequence from low-cost, Quake Catcher Network accelerometers,  Seismological Research Letters, 86 (6), 1533–1539.
+
+Martin, S.S., S.E. Hough, and C. Hung (2015), Ground Motions from the 2015 M7.8 Gorkha, Nepal, Earthquake Constrained by a Detailed Assessment of Macroseismic Data, Seismological Research Letters, 86 (6), 1524–1532.
+
+Martin, S.S. and S.E. Hough (2015), The 2014 Bay of Bengal earthquake: Macroseismic data reveals a high-stress drop event, Seismological Research Letters, 86 (2A), 369–377.
+
+Reyners, M., D. Eberhart-Phillips and S.S. Martin (2014), Widespread rock cracking and healing during an energetic earthquake sequence, Nature Geoscience, 7, 34–37.
+
+Singh, S.K., G. Suresh, R.S. Dattatrayam, H.P. Shukla, S.S. Martin, J. Havskov, X. Perez-Campos and A. Iglesias (2013), 1960 Delhi earthquake: Epicentre, depth and magnitude, Current Science, 105 (8), 1155–1165.
+
+Martin, S.S. and D.M. Kakar (2012), The 19 January 2011 Mw 7.2 Dalbandin Earthquake, Balochistan, Bulletin of the Seismological Society of America, 102 (4), 1810–1819.
+
+Szeliga, W., S.E. Hough, S.S. Martin, and R. Bilham (2010), Intensity, magnitude, location and attenuation in India for felt earthquakes since 1762, Bulletin of the Seismological Society of America, 100 (2), 570–584.
+
+Martin. S.S. and W. Szeliga (2010), A catalog of felt intensity data for 589 earthquakes in India, 1636-2008, Bulletin of the Seismological Society of America, 100 (2), 536–569.
+
+Martin, S.S. (2005), Intensity Distribution from the 2004 M9.0 Sumatra-Andaman Earthquake, Seismological Research Letters, 76 (3), 321–330.
+
+Hough, S.E., S.S. Martin, R. Bilham, and G. Atkinson (2003), A media-based assessment of damage and ground motions from the January 26th 2001 M7.6 Bhuj, India earthquake, Journal of Earth System Science, 112 (3), 353–375.
+
+Hough, S.E. and S.S. Martin (2002), Magnitude estimates of two large aftershocks of the 16 December, 1811 New Madrid earthquake, Bulletin of the Seismological Society of America, 92 (8), 3259–3268.
+
+Hough, S.E., S.S. Martin, R. Bilham and G. Atkinson (2002), The 26 January, 2001 Bhuj, India, earthquake: observed and predicted ground motions, Bulletin of the Seismological Society of America, 92 (2), 2061–2079.
+
+Bendick, R., R. Bilham, R. Fielding, V. Gaur, S.E. Hough, G. Kier, M. Kulkarni, S.S. Martin and M. Mukul (2001), The January 26, 2001 "Republic Day" earthquake, India, Seismological Research Letters, 72 (7), 328–335.
