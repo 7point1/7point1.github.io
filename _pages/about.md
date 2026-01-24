@@ -27,4 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. 
+The research during my PhD at RSES sought to apply modern techniques, sometimes in conjunction with sparse instrumental records, to observations extracted from historical materials to quantify and intepret earthquakes that pre-date the modern era.
+
+The importance of such a systematic and critical investigation of historical and pre-digital (early-instrumental) earthquakes is necessary to access and correct modern seismic hazard.
+
+Australia and Indonesia were the focus of my PhD research. My previous work and publications have dealt with earthquakes in India and the rest of the Subcontinent, the central United States and California, Haiti, New Zealand, and Southeast Asia.
+
+Google Scholar | ResearchGate | LinkedIn
