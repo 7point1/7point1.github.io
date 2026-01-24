@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Seismologist | Geoscience Australia | PhD Earth Sciences
+subtitle: Seismologist | PhD Earth Sciences
 
 profile:
   align: right
