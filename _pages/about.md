@@ -6,7 +6,7 @@ subtitle: Seismologist | BSc Geology | PhD Earth Sciences
 
 profile:
   align: right
-  image: anu.jpg
+  image: ssm.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
