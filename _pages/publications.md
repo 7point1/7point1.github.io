@@ -13,17 +13,17 @@ nav_order: 3
 
 <p>Allen, T.I., J.D. Griffin, D. Clark, P.R. Cummins, H. Ghasemi, R. Ebrahimi, <b>S.S. Martin</b> (2024), <a href="https://ecat.ga.gov.au/geonetwork/srv/api/records/51c79b0e-7063-45f1-9ed1-11e610652563" target="_blank">The 2023 update to the Australian National Seismic Hazard Assessment: Philosophy and model changes</a>, <i>18th World Conference on Earthquake Engineering (WCEE24)</i>, Milan.</p>
 
-<p><b>Martin, S.S.</b>, T.I. Allen, P.R. Cummins, J.D. Griffin, and D. Clark (2023), <a href="https://aees.org.au/wp-content/uploads/2023/11/11.-Stacey-Martin.pdf" target="_blank">Modern reappraisal of historical seismicity for seismic hazard assessment in Australia</a>, <i>Australian Earthquake Engineering Society Conference</i>.</p>
+<p><b>Martin, S.S.</b>, T.I. Allen, P.R. Cummins, J.D. Griffin, and D. Clark (2023), <a href="https://aees.org.au/wp-content/uploads/2023/11/11.-Stacey-Martin.pdf" target="_blank">Modern reappraisal of historical seismicity for seismic hazard assessment in Australia</a>, <i>Australian Earthquake Engineering Society Conference</i>, Brisbane, Queensland.</p>
 
-<p>Majewski, J.M, A.D. Switzer, R. Guan, B. Benazir, E. Meilianda, P.R. Parham, R. Weiss, <b>S.S. Martin</b>, L.K. Pearson, J.E. Pilarczyk, P. Daly, and B.P. Horton (2023), <a class="gsc_oci_title_link" href="https://www.sciencedirect.com/science/article/pii/S0025322723001718" target="_blank">Sediment analysis and historical context of the 2018 Palu-Donggala tsunami deposit, Indonesia</a>, <i>Marine Geology</i>.</p>
+<p>Majewski, J.M, A.D. Switzer, R. Guan, B. Benazir, E. Meilianda, P.R. Parham, R. Weiss, <b>S.S. Martin</b>, L.K. Pearson, J.E. Pilarczyk, P. Daly, and B.P. Horton (2023), <a class="gsc_oci_title_link" href="https://www.sciencedirect.com/science/article/pii/S0025322723001718" target="_blank">Sediment analysis and historical context of the 2018 Palu-Donggala tsunami deposit, Indonesia</a>, <i>Marine Geology</i>, 466.</p>
 
 <p>Hough, S.E., <b>S.S. Martin</b>,<b> </b>S. Symthie, and R. Briggs (2023), <a href="https://doi.org/10.1785/0120220108" target="_blank">Rupture scenarios for the 3 June 1770 Haiti earthquake</a>, <i>Bulletin of the Seismological Society of America</i>, 113 (1), 157-185.</p>
 
 <p>Yadav, R.K., <b>S.S. Martin</b>, and V.K. Gahalaut (2022), <a href="https://doi.org/10.1007/s12040-022-01957-3" target="_blank">Intraplate seismicity and earthquake hazard in the Aravalli–Delhi Fold Belt, India</a>, <i>Journal of Earth System Science</i>, 131 (4).</p>
 
-<p><b>Martin, S.S.</b>, P.R. Cummins , and A.J. Meltzner (2022), <a href="https://doi.org/10.1785/0120220047" target="_blank">Gempa Nusantara: A database of 7380 macroseismic observations for 1200 historical earthquakes in Indonesia from 1546 to 1950</a>, <i>Bulletin of the Seismological Society of America</i>, 112 (6), 2958–2980.</p>
+<p><b>Martin, S.S.</b>, P.R. Cummins, and A.J. Meltzner (2022), <a href="https://doi.org/10.1785/0120220047" target="_blank">Gempa Nusantara: A database of 7380 macroseismic observations for 1200 historical earthquakes in Indonesia from 1546 to 1950</a>, <i>Bulletin of the Seismological Society of America</i>, 112 (6), 2958–2980.</p>
 
-<p><b>Martin, S.S.</b>, P.R. Cummins, J.D. Griffin, D. Clark and T.I. Allen (2022), <a href="https://aees.org.au/wp-content/uploads/2022/11/Martin_AEES2022_revised2.pdf" target="_blank">Reviewing the 1 March 1954 Adelaide earthquake, South Australia</a>, <i>Australian Earthquake Engineering Society Conference</i>.</p>
+<p><b>Martin, S.S.</b>, P.R. Cummins, J.D. Griffin, D. Clark and T.I. Allen (2022), <a href="https://aees.org.au/wp-content/uploads/2022/11/Martin_AEES2022_revised2.pdf" target="_blank">Reviewing the 1 March 1954 Adelaide earthquake, South Australia</a>, <i>Australian Earthquake Engineering Society Conference</i>, Mount Macedon, Victoria.</p>
 
 <p><b>Martin, S.S.</b>, and S.E. Hough (2022), <a href="https://doi.org/10.1785/0120220016" target="_blank">The 8 April 1860 Jour de Pâques earthquake sequence in southern Haiti</a>, <i>Bulletin of the Seismological Society of America</i>, 112 (5), 2468-2486.</p>
 
