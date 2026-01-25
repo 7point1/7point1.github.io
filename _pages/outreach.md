@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <p><b>Media Interviews</b></p>
-Australian Broadcasting Corporation (ABC): <a href="https://www.abc.net.au/news/2024-08-08/1918-earthquake-epicentre-moved-250km-inland-monto/104193366"> Researchers revise epicentre of 1918 earthquake thought to have struck at sea near Bundaberg</a>
+2024: Australian Broadcasting Corporation (ABC): <a href="https://www.abc.net.au/news/2024-08-08/1918-earthquake-epicentre-moved-250km-inland-monto/104193366"> Researchers revise epicentre of 1918 earthquake thought to have struck at sea near Bundaberg</a>
 
 https://www.usgs.gov/news/featured-story/whos-sharing-inconsistent-eyewitness-accounts-can-affect-how-we-understand
 https://www.sciencedaily.com/releases/2022/07/220712141124.htm
