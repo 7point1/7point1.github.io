@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: 1895 Charleston
+description: Using macroseismic data and observations to determine the true size of the 31 OCtober 1895 Charleston, Missouri, earthquake in the United States
 img:
-importance: 4
+importance: 2
 category: fun
 ---
 
