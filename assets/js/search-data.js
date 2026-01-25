@@ -55,9 +55,9 @@ ninja.data = [{
           description: "Revision of the location of the 1 March 1954 Adelaide earthquake in South Australia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-1895-charleston",
+          title: '1895 Charleston',
+          description: "Using macroseismic data and observations to determine the true size of the 31 OCtober 1895 Charleston, Missouri, earthquake in the United States",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
