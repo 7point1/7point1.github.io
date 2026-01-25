@@ -11,10 +11,10 @@ nav_order: 4
 <p>
 2024: Australian Broadcasting Corporation: <a href="https://www.abc.net.au/news/2024-08-08/1918-earthquake-epicentre-moved-250km-inland-monto/104193366"> Researchers revise epicentre of 1918 earthquake thought to have struck at sea near Bundaberg</a></p>
 <p>
-2021: USGS Media: <a href="https://www.usgs.gov/news/featured-story/whos-sharing-inconsistent-eyewitness-accounts-can-affect-how-we-understand"> Studying Earthquakes Through Eyewitnesses Can Be Tricky</a>.
+2022: Science Daily: <a href="https://www.sciencedaily.com/releases/2022/07/220712141124.htm"> Haiti's 1860 Jour de Pâques earthquakes may have released strain in key fault zone</a>.
 </p>
 <p>
-2021: Science Daily: <a href="https://www.sciencedaily.com/releases/2022/07/220712141124.htm"> Haiti's 1860 Jour de Pâques earthquakes may have released strain in key fault zone</a>.
+2021: USGS Media: <a href="https://www.usgs.gov/news/featured-story/whos-sharing-inconsistent-eyewitness-accounts-can-affect-how-we-understand"> Studying Earthquakes Through Eyewitnesses Can Be Tricky</a>.
 </p>
   
 <p><b>Op-eds</b></p>
