@@ -50,9 +50,9 @@ ninja.data = [{
           description: "Magnitudes and location estimates for two rare earthquakes in Malaysia and Singapore in Jan-Feb 1922.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-1954-adelaide",
+          title: '1954 Adelaide',
+          description: "Revision of the location of the 1 March 1954 Adelaide earthquake in South Australia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
