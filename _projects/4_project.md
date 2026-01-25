@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: 1922 Malaysia
+description: Magnitudes and location estimates for two rare earthquakes in Malaysia and Singapore in Jan-Fev 1922 using macroseismic and limited seismological data.
 img:
 importance: 3
 category: fun
