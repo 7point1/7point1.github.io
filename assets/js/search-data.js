@@ -35,9 +35,9 @@ ninja.data = [{
           description: "Macroseismic and seismological review of the 6 June 1918 Bundaberg earthquake in Queensland, Australia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-1860-haiti",
+          title: '1860 Haiti',
+          description: "Macroseismic reanalysis of the Jour de Pâques earthquakes on 8-9 April 1860 in southern Haiti",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
