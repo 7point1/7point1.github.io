@@ -16,8 +16,9 @@ nav_order: 4
 <p>
 2021: USGS Media: <a href="https://www.usgs.gov/news/featured-story/whos-sharing-inconsistent-eyewitness-accounts-can-affect-how-we-understand"> Studying Earthquakes Through Eyewitnesses Can Be Tricky</a>.
 </p>
-<br></br>  
-<p><b>Op-eds</b></p>
+<p>
+  <b>Op-eds</b>
+</p>
 <p>P. Cummins, M. Daryono, and <b>S.S. Martin</b> (2022), <a href="https://theconversation.com/why-are-shallow-earthquakes-more-destructive-the-disaster-in-java-is-a-devastating-example-195110" target="_blank">Why are shallow earthquakes more destructive? The disaster in Java is a devastating example</a>, <i>The Conversation</i>.</p>
 
 <p><b>S.S. Martin</b> (2022), <a href="https://www.newmandala.org/bridging-historical-archives-and-earthquake-hazard-studies-in-indonesia/" target="_blank">Bridging historical archives and earthquake hazard studies in Indonesia</a>, <i>New Mandala</i>.</p>
