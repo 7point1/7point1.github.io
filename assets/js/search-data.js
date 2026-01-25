@@ -37,7 +37,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-1860-haiti",
           title: '1860 Haiti',
-          description: "Macroseismic reanalysis of the Jour de Pâques earthquakes on 8-9 April 1860 in southern Haiti",
+          description: "Macroseismic reanalysis of the three Jour de Pâques earthquakes on 8-9 April 1860 in southern Haiti",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
