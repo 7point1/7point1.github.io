@@ -30,4 +30,4 @@ The importance of such a systematic and critical investigation of historical and
 
 Australia and Indonesia were the focus of my PhD research. My previous work and publications have dealt with earthquakes in India and the rest of the Subcontinent, the central United States and California, Haiti, New Zealand, and Southeast Asia.
 
-Google Scholar | ResearchGate | LinkedIn
+<a href="https://scholar.google.com/citations?hl=en&user=rIxOK2oAAAAJ&view_op=list_works">Google Scholar</a> | ResearchGate | LinkedIn
