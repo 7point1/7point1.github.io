@@ -40,9 +40,9 @@ ninja.data = [{
           description: "Macroseismic reanalysis of the three Jour de Pâques earthquakes on 8-9 April 1860 in southern Haiti",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-1907-sumatra",
+          title: '1907 Sumatra',
+          description: "Upgrade of the magnitude of the 4 January 1907 tsunami earthquakes with macroseismic data, seismograms, and tsunami forward-modelling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
