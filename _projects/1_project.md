@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: 1918 Bundaberg Earthquake
+description: Macroseismic and seismological review of the 6 June 1918 "Bundaberg" earthquake 
 img: assets/img/12.jpg
 importance: 1
 category: work
