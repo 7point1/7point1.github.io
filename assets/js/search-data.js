@@ -47,7 +47,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-1922-malaysia",
           title: '1922 Malaysia',
-          description: "Magnitudes and location estimates for two rare earthquakes in Malaysia and Singapore in Jan-Fev 1922 using macroseismic and limited seismological data.",
+          description: "Magnitudes and location estimates for two rare earthquakes in Malaysia and Singapore in Jan-Feb 1922.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
