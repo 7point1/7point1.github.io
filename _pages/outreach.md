@@ -18,6 +18,7 @@ nav_order: 4
 <p>
 2021: USGS Media: <a href="https://www.usgs.gov/news/featured-story/whos-sharing-inconsistent-eyewitness-accounts-can-affect-how-we-understand"> Studying Earthquakes Through Eyewitnesses Can Be Tricky</a>.
 </p>
+<p></p>
 <p>
   <b>Op-eds</b>
 </p>
