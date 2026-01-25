@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-<p><b>Media Engagement</b></p>
+<p><b>Community Engagement</b></p>
 <p>
 2025: Office of the Inspector General of Emergency Management, Queensland: <a href="https://www.igem.qld.gov.au/research/case-studies/reassessment-1918-queensland-earthquake">Reassessment of 1918 Queensland earthquake</a>.
 </p>
