@@ -9,7 +9,9 @@ nav_order: 4
 
 <p><b>Media Engagement</b></p>
 <p>
-2024: Australian Broadcasting Corporation: <a href="https://www.abc.net.au/news/2024-08-08/1918-earthquake-epicentre-moved-250km-inland-monto/104193366"> Researchers revise epicentre of 1918 earthquake thought to have struck at sea near Bundaberg</a></p>
+2025: Office of the Inspector General of Emergency Management, Queensland: <a href="https://www.igem.qld.gov.au/research/case-studies/reassessment-1918-queensland-earthquake">Reassessment of 1918 Queensland earthquake</a>.
+</p>
+<p>2024: Australian Broadcasting Corporation: <a href="https://www.abc.net.au/news/2024-08-08/1918-earthquake-epicentre-moved-250km-inland-monto/104193366"> Researchers revise epicentre of 1918 earthquake thought to have struck at sea near Bundaberg</a></p>
 <p>
 2022: Science Daily: <a href="https://www.sciencedaily.com/releases/2022/07/220712141124.htm"> Haiti's 1860 Jour de Pâques earthquakes may have released strain in key fault zone</a>.
 </p>
