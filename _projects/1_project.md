@@ -4,7 +4,7 @@ title: 1918 Bundaberg
 description: Macroseismic and seismological review of the 6 June 1918 Bundaberg earthquake 
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: historical
 related_publications: false
 ---
 
