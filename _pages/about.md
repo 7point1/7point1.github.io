@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Seismologist | BSc Geology | PhD Earth Sciences
+subtitle: Seismologist  |  BSc Geology  |  PhD Earth Sciences
 
 profile:
   align: right
