@@ -3,7 +3,7 @@ layout: page
 title: 1922 Malaysia
 description: Magnitudes and location estimates for two rare earthquakes in Malaysia and Singapore in Jan-Feb 1922.
 img:
-importance: 3
+importance: 5
 category: fun
 ---
 
