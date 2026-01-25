@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/outreach/";
           },
-        },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+        },{id: "projects-1918-bundaberg-earthquake",
+          title: '1918 Bundaberg Earthquake',
+          description: "Macroseismic and seismological review of the 6 June 1918 &quot;Bundaberg&quot; earthquake",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
