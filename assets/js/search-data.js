@@ -45,9 +45,9 @@ ninja.data = [{
           description: "Upgrading the magnitude of the 4 January 1907 tsunami earthquake in Indonesia with macroseismic data, seismograms, and tsunami forward-modelling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-1922-malaysia",
+          title: '1922 Malaysia',
+          description: "Magnitudes and location estimates for two rare earthquakes in Malaysia and Singapore in Jan-Fev 1922 using macroseismic and limited seismological data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
