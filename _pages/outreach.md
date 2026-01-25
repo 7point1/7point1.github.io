@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-<p><b>Media</b></p>
+<p><b>Media Interviews</b></p>
 https://www.abc.net.au/news/2024-08-08/1918-earthquake-epicentre-moved-250km-inland-monto/104193366
 https://www.usgs.gov/news/featured-story/whos-sharing-inconsistent-eyewitness-accounts-can-affect-how-we-understand
 https://www.sciencedaily.com/releases/2022/07/220712141124.htm
