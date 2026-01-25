@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: 1954 Adelaide
+description: Revision of the location of the 1 March 1954 Adelaide earthquake in South Australia
 img: assets/img/1.jpg
 importance: 3
 category: fun
