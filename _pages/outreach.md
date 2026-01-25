@@ -25,6 +25,4 @@ nav_order: 4
 
 <p><b>S.S. Martin</b> (2021), <a href="https://temblor.net/earthquake-insights/representation-matters-in-earthquake-felt-reports-12620/" target="_blank">Representation matters in earthquake ‘felt reports’</a>, <i>Temblor</i>.</p>
 
-<p><b>Talks</b></p>
-
-<p><b>Conferences Attended</b></p>
+<p><b>Talks and Conferences</b></p>
