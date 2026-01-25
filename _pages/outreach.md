@@ -18,11 +18,11 @@ nav_order: 4
 </p>
 <br></br>  
 <p><b>Op-eds</b></p>
-<p><strong>S.S. Martin</strong> (2022), <a href="https://theconversation.com/why-are-shallow-earthquakes-more-destructive-the-disaster-in-java-is-a-devastating-example-195110" target="_blank">Why are shallow earthquakes more destructive? The disaster in Java is a devastating example</a>, <i>The Conversation</i>.</p>
+<p>P. Cummins, M. Daryono, and <b>S.S. Martin</b> (2022), <a href="https://theconversation.com/why-are-shallow-earthquakes-more-destructive-the-disaster-in-java-is-a-devastating-example-195110" target="_blank">Why are shallow earthquakes more destructive? The disaster in Java is a devastating example</a>, <i>The Conversation</i>.</p>
 
-<p><strong>S.S. Martin</strong> (2022), <a href="https://www.newmandala.org/bridging-historical-archives-and-earthquake-hazard-studies-in-indonesia/" target="_blank">Bridging historical archives and earthquake hazard studies in Indonesia</a>, <i>New Mandala</i>.</p>
+<p><b>S.S. Martin</b> (2022), <a href="https://www.newmandala.org/bridging-historical-archives-and-earthquake-hazard-studies-in-indonesia/" target="_blank">Bridging historical archives and earthquake hazard studies in Indonesia</a>, <i>New Mandala</i>.</p>
 
-<p><strong>S.S. Martin</strong> (2021), <a href="https://temblor.net/earthquake-insights/representation-matters-in-earthquake-felt-reports-12620/" target="_blank">Representation matters in earthquake ‘felt reports’</a>, <i>Temblor</i>.</p>
+<p><b>S.S. Martin</b> (2021), <a href="https://temblor.net/earthquake-insights/representation-matters-in-earthquake-felt-reports-12620/" target="_blank">Representation matters in earthquake ‘felt reports’</a>, <i>Temblor</i>.</p>
 
 <p><b>Talks</b></p>
 
