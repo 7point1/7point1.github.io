@@ -42,7 +42,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-1907-sumatra",
           title: '1907 Sumatra',
-          description: "Upgrading the magnitude of the 4 January 1907 tsunami earthquake in Indonesia with macroseismic data, seismograms, and tsunami forward-modelling",
+          description: "Upgrading the magnitude of the 4 January 1907 tsunami earthquake in Indonesia and the Indian Ocean",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-1922-malaysia",
