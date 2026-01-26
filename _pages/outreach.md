@@ -19,6 +19,7 @@ nav_order: 4
 2021: USGS Media: <a href="https://www.usgs.gov/news/featured-story/whos-sharing-inconsistent-eyewitness-accounts-can-affect-how-we-understand"> Studying Earthquakes Through Eyewitnesses Can Be Tricky</a>.
 </p>
 <p></p>
+<br>
 <p>
   <b>Op-eds</b>
 </p>
@@ -27,5 +28,5 @@ nav_order: 4
 <p><b>S.S. Martin</b> (2022), <a href="https://www.newmandala.org/bridging-historical-archives-and-earthquake-hazard-studies-in-indonesia/" target="_blank">Bridging historical archives and earthquake hazard studies in Indonesia</a>, <i>New Mandala</i>.</p>
 
 <p><b>S.S. Martin</b> (2021), <a href="https://temblor.net/earthquake-insights/representation-matters-in-earthquake-felt-reports-12620/" target="_blank">Representation matters in earthquake ‘felt reports’</a>, <i>Temblor</i>.</p>
-
+<br>
 <p><b>Talks and Conferences</b></p>
