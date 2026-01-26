@@ -6,7 +6,9 @@ description:
 nav: true
 nav_order: 4
 ---
-
+<p>The following is a complete list of my peer-reviewed publications in reverse chronological order, which mirrors my <a href="https://scholar.google.com/citations?user=rIxOK2oAAAAJ&hl=en" target="_blank"> Google Scholar profile</a>. Each publication links to its page on the related journal's website. If you do not have access to any of these papers via their journal websites, have a look for the paper on my <a href="https://www.researchgate.net/profile/Stacey_Martin9" target="_blank">ResearchGate profile</a> or send me a message there. Papers in preparation, including those from my PhD, will appear as they progress through the review pipeline.
+</p>
+<br>
 <p><b>Community Engagement</b></p>
 <p>
 2025: Office of the Inspector General of Emergency Management, Queensland: <a href="https://www.igem.qld.gov.au/research/case-studies/reassessment-1918-queensland-earthquake">Reassessment of 1918 Queensland earthquake</a>.
