@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "The following is a complete list of my peer-reviewed publications in reverse chronological order, which mirrors my  Google Scholar. Each publication links to its page on the related journal&#39;s website. If you do not have access ot these journal websites, have a look for the paper on ResearchGate, or drop me an e-mail. Papers in preparation, of which there are a handful from my PhD, will appear as they are accepted or published.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
