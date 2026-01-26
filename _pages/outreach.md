@@ -18,7 +18,7 @@ nav_order: 4
 2022: Science Daily: <a href="https://www.sciencedaily.com/releases/2022/07/220712141124.htm"> Haiti's 1860 Jour de Pâques earthquakes may have released strain in key fault zone</a>.
 </p>
 <p>
-2021: Unted States Geological Survey media: <a href="https://www.usgs.gov/news/featured-story/whos-sharing-inconsistent-eyewitness-accounts-can-affect-how-we-understand"> Studying Earthquakes Through Eyewitnesses Can Be Tricky</a>.
+2021: Unted States Geological Survey media: <a href="https://www.usgs.gov/news/featured-story/whos-sharing-inconsistent-eyewitness-accounts-can-affect-how-we-understand"> Studying earthquakes through eyewitnesses can be tricky</a>.
 </p>
 <p></p>
 <br>
