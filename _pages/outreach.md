@@ -44,7 +44,7 @@ nav_order: 4
 </p>
 <p>(22)	Switzer, A.D., J.M. Majewski, R.Y.S. Guan, B. Benazir, E. Meilianda, P. Parham, R. Weiss, <b>S.S. Martin</b>, C. Jordan, J.E. Pilarczyk, B.P. Horton (2021), <a href="https://meetingorganizer.copernicus.org/EGU21/EGU21-6822.html" target="_blank>Sediment analysis and modelling reveal short inundation distances and low onshore flow speed of the 2018 Palu-Donggala tsunami in Indonesia</a>, EGU.
 </p>
-<p> (21) Wei, S., G. Feng, H. Zeng, <b>S.S. Martin</b>, Q. Shi, M. Muzli, T. Wang, E. Lindsay, R. Triyono, J. Hubbard, P. Tapponier, K. Sieh (2018), <a href"https://ui.adsabs.harvard.edu/abs/2018AGUFMNH23F3550W/abstract" target="_blank">The 2018 Mw 7.5 Palu Earthquake: A gradually accelerating super-shear rupture terminated by stress shadows in a complex fault system, AGU Fall Meeting.
+<p> (21) Wei, S., G. Feng, H. Zeng, <b>S.S. Martin</b>, Q. Shi, M. Muzli, T. Wang, E. Lindsay, R. Triyono, J. Hubbard, P. Tapponier, K. Sieh (2018), <a href"https://ui.adsabs.harvard.edu/abs/2018AGUFMNH23F3550W/abstract" target="_blank">The 2018 Mw 7.5 Palu Earthquake: A gradually accelerating super-shear rupture terminated by stress shadows in a complex fault system</a>, AGU Fall Meeting.
 </p>
 <p>(20) Martin, S.S., L. Li, E. Okal, J. Morin, A. Tetteroo, K. Sieh, A. Switzer, The 1907 Sumatra "tsunami earthquake": A reassessment using macroseismic, seismological and tsunami observations, South China Sea Tsunami Workshop (SCSTW), National University of Singapore, 10th Meeting, 2018.
 </p>
