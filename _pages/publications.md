@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: The following is a complete list of my peer-reviewed publications in reverse chronological order, which mirrors my <a href="https://scholar.google.com/citations?hl=en&user=rIxOK2oAAAAJ" target=_blank>Google Scholar</a>. Each publication links to its page on the related journal's website. If you do not have access ot these journal websites, have a look for the paper on ResearchGate, or drop me an e-mail. Papers in preparation, of which there are a handful from my PhD, will appear as they are submitted, accepted or published.
+description: The following is a complete list of my peer-reviewed publications in reverse chronological order, which mirrors my Google Scholar</a>. Each publication links to its page on the related journal's website. If you do not have access ot these journal websites, have a look for the paper on ResearchGate, or drop me an e-mail. Papers in preparation, of which there are a handful from my PhD, will appear as they are submitted, accepted or published.
 nav: true
 nav_order: 3
 ---
