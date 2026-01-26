@@ -46,35 +46,37 @@ nav_order: 4
 </p>
 <p> (21) Wei, S., G. Feng, H. Zeng, <b>S.S. Martin</b>, Q. Shi, M. Muzli, T. Wang, E. Lindsay, R. Triyono, J. Hubbard, P. Tapponier, K. Sieh (2018), <a href="https://ui.adsabs.harvard.edu/abs/2018AGUFMNH23F3550W/abstract" target="_blank">The 2018 Mw 7.5 Palu Earthquake: A gradually accelerating super-shear rupture terminated by stress shadows in a complex fault system</a>, AGU Fall Meeting.
 </p>
-<p>(20) Martin, S.S., L. Li, E. Okal, J. Morin, A. Tetteroo, K. Sieh, A. Switzer, The 1907 Sumatra "tsunami earthquake": A reassessment using macroseismic, seismological and tsunami observations, South China Sea Tsunami Workshop (SCSTW), National University of Singapore, 10th Meeting, 2018.
+<p>(20) Martin, S.S., L. Li, E. Okal, J. Morin, A. Tetteroo, K. Sieh, A. Switzer (2018), The 1907 Sumatra "tsunami earthquake": A reassessment using macroseismic, seismological and tsunami observations, South China Sea Tsunami Workshop (SCSTW), National University of Singapore, 10th Meeting.
 </p>
-<p>(19) Hough, S.E. R. Bilham, V. Tsai, <b>S.S. Martin</b>, R. Walker, and F. Aminzadeh, Production induced earthquakes in Southern California during the early 20th century, AOGS, 2018.
+<p>(19) Hough, S.E. R. Bilham, V. Tsai, <b>S.S. Martin</b>, R. Walker, and F. Aminzadeh (2018), Production induced earthquakes in Southern California during the early 20th century, AOGS.
 </p>
-<p>(18) Aung, L.T., <b>S.S. Martin</b>, Y. Wang, S.T. Tun, D.W. Aung, and W. Naing, A revision of the macroseismic effects of the 1975 M6.5 Bagan, Myanmar earthquake, AOGS, 2018.
+<p>(18) Aung, L.T., <b>S.S. Martin</b>, Y. Wang, S.T. Tun, D.W. Aung, and W. Naing (2018), A revision of the macroseismic effects of the 1975 M6.5 Bagan, Myanmar earthquake, AOGS.
 </p>
-<p>(17)	Martin, S.S., M. Locati, and K. Sieh, Gempa Nusantara: A new digital database of felt intensity for historical earthquakes in the Indonesian archipelago, SSA Annual Meeting, 2018. 
+<p>(17)	Martin, S.S., M. Locati, and K. Sieh (2018), Gempa Nusantara: A new digital database of felt intensity for historical earthquakes in the Indonesian archipelago, SSA Annual Meeting. 
 </p>
-<p>(16) Hough, S.E., and <b>S.S. Martin</b>, A proposed rupture scenario for the 1925 Santa Barbara, California, earthquake, SSA Annual Meeting, 2018.
+<p>(16) Hough, S.E., and <b>S.S. Martin</b> (2018), A proposed rupture scenario for the 1925 Santa Barbara, California, earthquake, SSA Annual Meeting.
 </p>
-<p>(15)	Martin, S.S., L. Li, E. Okal, H. Kanamori, J. Morin, K. Sieh, A. Switzer, New constraints on the magnitude of the 4 January 1907 tsunami earthquake off Sumatra, Indonesia, and its Indian Ocean-wide tsunami, AGU Fall Meeting, 2017.
+<p>(15)	Martin, S.S., L. Li, E. Okal, H. Kanamori, J. Morin, K. Sieh, A. Switzer (2017), < href="https://ui.adsabs.harvard.edu/abs/2017AGUFM.S53B0673M/abstract" target="_blank">New constraints on the magnitude of the 4 January 1907 tsunami earthquake off Sumatra, Indonesia, and its Indian Ocean-wide tsunami</a>, AGU Fall Meeting.
 </p>
-<p>(14)	Aung, L.T., Y. Wang, <b>S.S. Martin</b>, M. Thant. K. N. Htay, H. M. Aung, T. Z. Kyaw, S. Min. K. Sithu, T. Naing, E.H.N. Myo, T. H. Oo, S. N. Khaing, W. Chan, P. Maung Maung, and S. Wei, Using social media and ground surveys to map the macroseismic effects of the Mw 6.9 Kani and Mw 6.8 Chauk earthquakes of 2016 in Myanmar, AOGS, 2017.
+<p>(14)	Aung, L.T., Y. Wang, <b>S.S. Martin</b>, M. Thant. K. N. Htay, H. M. Aung, T. Z. Kyaw, S. Min. K. Sithu, T. Naing, E.H.N. Myo, T. H. Oo, S. N. Khaing, W. Chan, P. Maung Maung, and S. Wei (2017), Using social media and ground surveys to map the macroseismic effects of the Mw 6.9 Kani and Mw 6.8 Chauk earthquakes of 2016 in Myanmar, AOGS.
 </p>
-<p>(13)	Martin, S.S., S.E. Hough, V.K. Gahalaut, M. Landès, and R. Bossu, Ground motions from the Gorkha and Dolakha earthquakes in Nepal in 2015, AGU Fall Meeting, 2016.
+<p>(13)	Martin, S.S., S.E. Hough, V.K. Gahalaut, M. Landès, and R. Bossu (2016), <a href="https://ui.adsabs.harvard.edu/abs/2016AGUFM.S11B2455M/abstract" target="_blank">Analysis of the ground motions from the MW 7.8 Gorkha and MW 7.3 Dolakha earthquakes in Nepal in 2015</a>, AGU Fall Meeting.
 </p>
-<p>(12)	Hough, S.E., J-P. Ampuero, <b>S.S. Martin</b>, L. Meng, E.M. Thompson, A. Zhang, and D. Asimaki, Near-field and Regional Ground Motions During the 2015 Gorkha, Nepal, Earthquake, SSA Annual Meeting, 2016.
+<p>(12)	Hough, S.E., J-P. Ampuero, <b>S.S. Martin</b>, L. Meng, E.M. Thompson, A. Zhang, and D. Asimaki (2016), Near-field and Regional Ground Motions During the 2015 Gorkha, Nepal, Earthquake, SSA Annual Meeting.
 </p>
-<p>(11) Martin, S.S., S.E. Hough, V.K. Gahalaut, and C. Hung, Macroseismic Intensities from the 2015 Gorkha, Nepal, Earthquake, AGU Fall Meeting, 2015. 
+<p>(11) Martin, S.S., S.E. Hough, V.K. Gahalaut, and C. Hung (2015), <a href="https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/58240" target="_blank">Macroseismic Intensities from the 2015 Gorkha, Nepal, Earthquake</a>, AGU Fall Meeting. 
 </p>
-<p>(10) Hough, S.E., <b>S.S. Martin</b>, A. Dixit, S. Shreshta, R. Guragain, E. Cochran, D. Sumy, A. Ringler, D. McNamara, D. Asimaki, R. Bilham, D. Mencin, J. Galetzka, J. Luetgert, L. Meng, J-P., Ampuero, and S. Rajaure, Ground Motions during the 2015 Gorkha, Nepal, Earthquake: An Expected Event that Defied Expectations, AGU Fall Meeting, 2015.
+<p>(10) Ampuero, J-P.,  L. Meng, S.E. Hough, <b>S.S. Martin</b>, D. Asimaki (2015), <a href="https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/58331" target="_blank">Salient Features of the 2015 Gorkha, Nepal Earthquake in Relation to Earthquake Cycle and Dynamic Rupture Models </a>, AGU Fall Meeting.
 </p>
-<p>(09) Savage, M., K. Jacobs, R. Heckels, A. Shelley, J. Dimech, E. Walsh, <b>S.S. Martin</b>, A. Benson, T. Stern, J. Townend, J. McIntosh, J. Louie, S. Henrys, S. Bannister, B. Fry, and D. Okaya, Seddon Earthquake Aftershock Structural Investigation, New Zealand Geoscience Conference, Christchurch, 2013.
+<p>(10) Hough, S.E., <b>S.S. Martin</b>, A. Dixit, S. Shreshta, R. Guragain, E. Cochran, D. Sumy, A. Ringler, D. McNamara, D. Asimaki, R. Bilham, D. Mencin, J. Galetzka, J. Luetgert,J-P., Ampuero, and S. Rajaure (2015), <a href="https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/59426" target="_blank">Ground Motions during the 2015 Gorkha, Nepal, Earthquake: An Expected Event that Defied Expectations</a>, AGU Fall Meeting.
 </p>
-<p>(08)	Hough, S.E., M. Page and <b>S.S. Martin</b>, Revisiting the historical earthquake catalog in Northern California: New insights into the seismic cycle, SSA Annual Meeting, 2013.
+<p>(09) Savage, M., K. Jacobs, R. Heckels, A. Shelley, J. Dimech, E. Walsh, <b>S.S. Martin</b>, A. Benson, T. Stern, J. Townend, J. McIntosh, J. Louie, S. Henrys, S. Bannister, B. Fry, and D. Okaya (2013), Seddon Earthquake Aftershock Structural Investigation, New Zealand Geoscience Conference, Christchurch.
 </p>
-<p>(07) Reyners, M., D. M. Eberhart-Phillips, S.C. Bannister and <b>S.S. Martin</b>, The role of crustal structure in the development of the destructive 2010-2011 Canterbury, New Zealand, earthquake sequence, Geoscience Society of New Zealand, 2011.
+<p>(08)	Hough, S.E., M. Page and <b>S.S. Martin</b> (2013), Revisiting the historical earthquake catalog in Northern California: New insights into the seismic cycle, SSA Annual Meeting.
 </p>
-<p>(06) Reyners, M., D. M. Eberhart-Phillips, S.C. Bannister and <b>S.S. Martin</b>, The tectonic context of the destructive 2010-2011 Canterbury, New Zealand, earthquake sequence, AGU Fall Meeting, 2011.
+<p>(07) Reyners, M., D. M. Eberhart-Phillips, S.C. Bannister and <b>S.S. Martin</b> (2011), The role of crustal structure in the development of the destructive 2010-2011 Canterbury, New Zealand, earthquake sequence, Geoscience Society of New Zealand.
+</p>
+<p>(06) Reyners, M., D. M. Eberhart-Phillips, S.C. Bannister and <b>S.S. Martin</b> (2011), <a href="https://ui.adsabs.harvard.edu/abs/2011AGUFM.S21C..06R/abstract" target="blank"> The tectonic context of the destructive 2010-2011 Canterbury, New Zealand, earthquake sequence</a>, AGU Fall Meeting.
 </p>
 <p>(05) Beavan, J., C. Holden, M. Reyners, B. Fry, S. Samsonov, M. Motagh and <b>S.S. Martin</b>, Source models of the Mw 7.1 Darfield, New Zealand earthquake, XXV IUGG General Assembly, 2011.
 </p>
@@ -87,6 +89,7 @@ nav_order: 4
 <p>(01)	Hough, S.E., R. Bilham, K. Mueller, N. Ambraseys and <b>S.S. Martin</b>, Great Intraplate Earthquakes: Insights from Macroseismic Data, Indo-US Workshop on Seismicity & Geodynamics, Hyderabad, 19 – 20, 2003.
 </p>
 <p>(01)	Hough, S.E. and <b>S.S. Martin</b>, Intensity Distribution of the January 26, 2001 Bhuj, India Earthquake, Seismological Research Letters, 72, 7, 2001.
-28.	Bendick, R., R. Bilham, R. Fielding, V. Gaur, S.E. Hough, G. Kier, M. Kulkarni, <b>S.S. Martin</b> and M. Mukul, Geodetic investigation of the January 26, 2001 Bhuj Earthquake, Gujarat, India, EOS, Transactions American Geophysical Union, 82, 5261, 2001.
+</p>
+<p>(01)	Bendick, R., R. Bilham, R. Fielding, V. Gaur, S.E. Hough, G. Kier, M. Kulkarni, <b>S.S. Martin</b> and M. Mukul, Geodetic investigation of the January 26, 2001 Bhuj Earthquake, Gujarat, India, EOS, Transactions American Geophysical Union, 82, 5261, 2001.
 </p>
 
