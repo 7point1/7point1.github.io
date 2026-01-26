@@ -31,12 +31,14 @@ nav_order: 4
 
 <p><b>S.S. Martin</b> (2021), <a href="https://temblor.net/earthquake-insights/representation-matters-in-earthquake-felt-reports-12620/" target="_blank">Representation matters in earthquake ‘felt reports’</a>, <i>Temblor</i>.</p>
 <br>
-<p><b>Talks and Conferences</b></p>
-<p>(25) Allen, T.I., J.D. Griffin, D. Clark, H. Ghasemi, P. Cummins, R. Ebrahimi, <b>S.S. Martin</b> (2023), Updating the National Seismic Hazard Assessment: philosophy and implications, Australian National Committee on Large Dams (ANCOLD), Cairns, Queensland.
+<p><b>Talks</b></p>
+<br>
+<p><b>Conferences</b></p>
+<p>(25) Allen, T.I., J.D. Griffin, D. Clark, H. Ghasemi, P. Cummins, R. Ebrahimi, <b>S.S. Martin</b> (2023), <a href="https://ecat.ga.gov.au/geonetwork/srv/api/records/d16b3bf1-fd3a-4dfd-b1af-3e917a7bf10c target="_blank">Updating the National Seismic Hazard Assessment: philosophy and implications</a>, Australian National Committee on Large Dams (ANCOLD), Cairns, Queensland.
 </p>
-<p>(25) Di Giacomo, D., <b>S.S. Martin</b>, P. Cummins (2023), Reassessment of pre-digital era Indonesian earthquakes, XXVIII IUGG General Assembly.
+<p>(25) Di Giacomo, D., <b>S.S. Martin</b>, P. Cummins (2023), <a href="https://10.57757/IUGG23-3812" target="_blank">Reassessment of pre-digital era Indonesian earthquakes</a>, XXVIII IUGG General Assembly.
 </p>
-<p>(24) <b>Martin, S.S.</b>, P. Cummins, A.J. Meltzner (2023), Reconstructing a four-century long record of historical seismicity in Indonesia with the Gempa Nusantara database, XXVIII IUGG General Assembly.
+<p>(24) <b>Martin, S.S.</b>, P. Cummins, A.J. Meltzner (2023), <a href="https://doi.org/10.57757/IUGG23-4686" target="_blank">Reconstructing a four-century long record of historical seismicity in Indonesia with the Gempa Nusantara database</a>, XXVIII IUGG General Assembly.
 </p>
 <p>(23) Hough, S.E., <b>S.S. Martin</b>, S. Symithe, R. Brigg (2022), Earthquake ruptures on complex fault systems: Insights from Haiti, Southern California Earthquake Center (SCEC), Annual Meeting.
 </p>
