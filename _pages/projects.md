@@ -8,6 +8,7 @@ nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
+The following is a complete list of my peer-reviewed publications in reverse chronological order, which mirrors my Google Scholar profile. Each publication links to its page on the related journal's website. If you do not have access to any of these papers via their journal websites, have a look for the paper on my ResearchGate profile or send me a message there. Papers in preparation, including those from my PhD, will appear as they progress through the review pipeline. 
 
 <!-- pages/projects.md -->
 <div class="projects">
