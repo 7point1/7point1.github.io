@@ -23,7 +23,7 @@ nav_order: 4
 <p></p>
 <br>
 <p>
-  <b>Op-eds</b>
+<b>Op-eds</b>
 </p>
 <p>P. Cummins, M. Daryono, and <b>S.S. Martin</b> (2022), <a href="https://theconversation.com/why-are-shallow-earthquakes-more-destructive-the-disaster-in-java-is-a-devastating-example-195110" target="_blank">Why are shallow earthquakes more destructive? The disaster in Java is a devastating example</a>, <i>The Conversation</i>.</p>
 
@@ -32,13 +32,13 @@ nav_order: 4
 <p><b>S.S. Martin</b> (2021), <a href="https://temblor.net/earthquake-insights/representation-matters-in-earthquake-felt-reports-12620/" target="_blank">Representation matters in earthquake ‘felt reports’</a>, <i>Temblor</i>.</p>
 <br>
 <p><b>Talks and Conferences</b></p>
-<p></p>Allen, T.I., J.D. Griffin, D. Clark, H. Ghasemi, P. Cummins, R. Ebrahimi, <b>S.S. Martin</b> (2023), Updating the National Seismic Hazard Assessment: philosophy and implications, Australian National Committee on Large Dams (ANCOLD), Cairns, Queensland.
+(26) <p></p>Allen, T.I., J.D. Griffin, D. Clark, H. Ghasemi, P. Cummins, R. Ebrahimi, <b>S.S. Martin</b> (2023), Updating the National Seismic Hazard Assessment: philosophy and implications, Australian National Committee on Large Dams (ANCOLD), Cairns, Queensland.
 </p>
-<p>Di Giacomo, D., <b>S.S. Martin</b>, P. Cummins, Reassessment of pre-digital era Indonesian earthquakes, XXVIII IUGG General Assembly, 2023.
+(25)<p>Di Giacomo, D., <b>S.S. Martin</b>, P. Cummins, Reassessment of pre-digital era Indonesian earthquakes (2023), XXVIII IUGG General Assembly.
 </p>
-3.	Martin, S.S., P. Cummins, A.J. Meltzner, Reconstructing a four-century long record of historical seismicity in Indonesia with the Gempa Nusantara database, XXVIII IUGG General Assembly, 2023.
-4.	Hough, S.E., <b>S.S. Martin</b>, S. Symithe, R. Brigg, Earthquake ruptures on complex fault systems: Insights from Haiti, Southern California Earthquake Center (SCEC), Annual Meeting, 2022.
-5.	Switzer, A.D., J.M. Majewski, R.Y.S. Guan, B. Benazir, E. Meilianda, P. Parham, R. Weiss, <b>S.S. Martin</b>, C. Jordan, J.E. Pilarczyk, B.P. Horton, Sediment analysis and modelling reveal short inundation distances and low onshore flow speed of the 2018 Palu-Donggala tsunami in Indonesia, EGU, 2021.
+(24) <p><b>Martin, S.S.</b></p>, P. Cummins, A.J. Meltzner (2023), Reconstructing a four-century long record of historical seismicity in Indonesia with the Gempa Nusantara database, XXVIII IUGG General Assembly.</p>
+(23) Hough, S.E., <b>S.S. Martin</b>, S. Symithe, R. Brigg (2022), Earthquake ruptures on complex fault systems: Insights from Haiti, Southern California Earthquake Center (SCEC), Annual Meeting.</p>
+(22)	Switzer, A.D., J.M. Majewski, R.Y.S. Guan, B. Benazir, E. Meilianda, P. Parham, R. Weiss, <b>S.S. Martin</b>, C. Jordan, J.E. Pilarczyk, B.P. Horton (2021), Sediment analysis and modelling reveal short inundation distances and low onshore flow speed of the 2018 Palu-Donggala tsunami in Indonesia, EGU.</p>
 6.	Wei, S., G. Feng, H. Zeng, <b>S.S. Martin</b>, Q. Shi, M. Muzli, T. Wang, E. Lindsay, R. Triyono, J. Hubbard, P. Tapponier, K. Sieh, The 2018 Mw 7.5 Palu Earthquake: A gradually accelerating super-shear rupture terminated by stress shadows in a complex fault system, AGU Fall Meeting, 2018.
 7.	Martin, S.S., L. Li, E. Okal, J. Morin, A. Tetteroo, K. Sieh, A. Switzer, The 1907 Sumatra "tsunami earthquake": A reassessment using macroseismic, seismological and tsunami observations, South China Sea Tsunami Workshop (SCSTW), National University of Singapore, 10th Meeting, 2018.
 8.	Hough, S.E. R. Bilham, V. Tsai, <b>S.S. Martin</b>, R. Walker, and F. Aminzadeh, Production induced earthquakes in Southern California during the early 20th century, AOGS, 2018.
