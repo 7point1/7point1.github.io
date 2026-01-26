@@ -34,17 +34,17 @@ nav_order: 4
 <p><b>Talks</b></p>
 <br>
 <p><b>Conferences</b></p>
-<p>(25) Allen, T.I., J.D. Griffin, D. Clark, H. Ghasemi, P. Cummins, R. Ebrahimi, <b>S.S. Martin</b> (2023), <a href="https://ecat.ga.gov.au/geonetwork/srv/api/records/d16b3bf1-fd3a-4dfd-b1af-3e917a7bf10c target="_blank">Updating the National Seismic Hazard Assessment: philosophy and implications</a>, Australian National Committee on Large Dams (ANCOLD), Cairns, Queensland.
+<p>(25) Allen, T.I., J.D. Griffin, D. Clark, H. Ghasemi, P. Cummins, R. Ebrahimi, <b>S.S. Martin</b> (2023), <a href="https://ecat.ga.gov.au/geonetwork/srv/api/records/d16b3bf1-fd3a-4dfd-b1af-3e917a7bf10c" target="_blank">Updating the National Seismic Hazard Assessment: philosophy and implications</a>, Australian National Committee on Large Dams (ANCOLD), Cairns, Queensland.
 </p>
 <p>(25) Di Giacomo, D., <b>S.S. Martin</b>, P. Cummins (2023), <a href="https://10.57757/IUGG23-3812" target="_blank">Reassessment of pre-digital era Indonesian earthquakes</a>, XXVIII IUGG General Assembly.
 </p>
 <p>(24) <b>Martin, S.S.</b>, P. Cummins, A.J. Meltzner (2023), <a href="https://doi.org/10.57757/IUGG23-4686" target="_blank">Reconstructing a four-century long record of historical seismicity in Indonesia with the Gempa Nusantara database</a>, XXVIII IUGG General Assembly.
 </p>
-<p>(23) Hough, S.E., <b>S.S. Martin</b>, S. Symithe, R. Brigg (2022), Earthquake ruptures on complex fault systems: Insights from Haiti, Southern California Earthquake Center (SCEC), Annual Meeting.
+<p>(23) Hough, S.E., <b>S.S. Martin</b>, S. Symithe, R. Brigg (2022), <a href="https://central.scec.org/publication/11961" target="_blank">Earthquake ruptures on complex fault systems: Insights from Haiti</a>, Southern California Earthquake Center (SCEC), Annual Meeting.
 </p>
-<p>(22)	Switzer, A.D., J.M. Majewski, R.Y.S. Guan, B. Benazir, E. Meilianda, P. Parham, R. Weiss, <b>S.S. Martin</b>, C. Jordan, J.E. Pilarczyk, B.P. Horton (2021), Sediment analysis and modelling reveal short inundation distances and low onshore flow speed of the 2018 Palu-Donggala tsunami in Indonesia, EGU.
+<p>(22)	Switzer, A.D., J.M. Majewski, R.Y.S. Guan, B. Benazir, E. Meilianda, P. Parham, R. Weiss, <b>S.S. Martin</b>, C. Jordan, J.E. Pilarczyk, B.P. Horton (2021), <a href="https://meetingorganizer.copernicus.org/EGU21/EGU21-6822.html" target="_blank>Sediment analysis and modelling reveal short inundation distances and low onshore flow speed of the 2018 Palu-Donggala tsunami in Indonesia</a>, EGU.
 </p>
-<p> (21) Wei, S., G. Feng, H. Zeng, <b>S.S. Martin</b>, Q. Shi, M. Muzli, T. Wang, E. Lindsay, R. Triyono, J. Hubbard, P. Tapponier, K. Sieh (2018), The 2018 Mw 7.5 Palu Earthquake: A gradually accelerating super-shear rupture terminated by stress shadows in a complex fault system, AGU Fall Meeting.
+<p> (21) Wei, S., G. Feng, H. Zeng, <b>S.S. Martin</b>, Q. Shi, M. Muzli, T. Wang, E. Lindsay, R. Triyono, J. Hubbard, P. Tapponier, K. Sieh (2018), <a href"https://ui.adsabs.harvard.edu/abs/2018AGUFMNH23F3550W/abstract" target="_blank">The 2018 Mw 7.5 Palu Earthquake: A gradually accelerating super-shear rupture terminated by stress shadows in a complex fault system, AGU Fall Meeting.
 </p>
 <p>(20) Martin, S.S., L. Li, E. Okal, J. Morin, A. Tetteroo, K. Sieh, A. Switzer, The 1907 Sumatra "tsunami earthquake": A reassessment using macroseismic, seismological and tsunami observations, South China Sea Tsunami Workshop (SCSTW), National University of Singapore, 10th Meeting, 2018.
 </p>
