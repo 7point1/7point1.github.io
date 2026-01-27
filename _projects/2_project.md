@@ -2,7 +2,7 @@
 layout: page
 title: 1860 Haiti
 description: Macroseismic reanalysis of the three Jour de Pâques earthquakes on 8-9 April 1860 in southern Haiti
-img: assets/img/1-edited.jpg
+img: assets/img/1.jpg
 importance: 1
 category: historical
 giscus_comments: true
