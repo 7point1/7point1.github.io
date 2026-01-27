@@ -8,7 +8,7 @@ nav_order: 2
 display_categories: [historical, modern, catalogue, seismology]
 horizontal: false
 ---
-<p>My research portfolio below highlights some of my most memorable projects resulting in impactful science. These cover the analysis of historical and modern earthquakes, historical earthquake catalogues and macroseismic datasets, and papers relating to observational or strong-motion seismology. Related papers are highlighted within each project but if you are after my complete publication record, that can be found under the <a href="https://7point1.github.io/publications/">Publications tab</a> at the top right-handside of this page.
+<p>My research portfolio below highlights some of my most memorable projects resulting in impactful science. These cover the analysis of historical and modern earthquakes, historical earthquake catalogues and macroseismic datasets, and papers relating to observational or strong-motion seismology. Related papers are highlighted within each project, but if you are after my complete publication record, that can be found under the <a href="https://7point1.github.io/publications/">Publications tab</a> at the top right-hand side of this page.
 </p>
 <br>
 <!-- pages/projects.md -->
