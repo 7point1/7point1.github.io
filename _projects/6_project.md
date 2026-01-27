@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 1895 Charleston
-description: Using macroseismic data and observations to determine the true size of the 31 OCtober 1895 Charleston, Missouri, earthquake in the United States
-img: assets/img/1-edited.jpg
+description: Determining the true size of the 31 OCctober 1895 Charleston, Missouri, earthquake in the United States
+img: assets/img/1.jpg
 importance: 2
 category: seismology
 ---
