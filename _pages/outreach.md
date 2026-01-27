@@ -56,7 +56,7 @@ nav_order: 4
 </p>
 <p>(16) Hough, S.E., and <b>S.S. Martin</b> (2018), A proposed rupture scenario for the 1925 Santa Barbara, California, earthquake, SSA Annual Meeting.
 </p>
-<p>(15)	Martin, S.S., L. Li, E. Okal, H. Kanamori, J. Morin, K. Sieh, A. Switzer (2017), < href="https://ui.adsabs.harvard.edu/abs/2017AGUFM.S53B0673M/abstract" target="_blank">New constraints on the magnitude of the 4 January 1907 tsunami earthquake off Sumatra, Indonesia, and its Indian Ocean-wide tsunami</a>, AGU Fall Meeting.
+<p>(15)	Martin, S.S., L. Li, E. Okal, H. Kanamori, J. Morin, K. Sieh, A. Switzer (2017), <a href="https://ui.adsabs.harvard.edu/abs/2017AGUFM.S53B0673M/abstract" target="_blank">New constraints on the magnitude of the 4 January 1907 tsunami earthquake off Sumatra, Indonesia, and its Indian Ocean-wide tsunami</a>, AGU Fall Meeting.
 </p>
 <p>(14)	Aung, L.T., Y. Wang, <b>S.S. Martin</b>, M. Thant. K. N. Htay, H. M. Aung, T. Z. Kyaw, S. Min. K. Sithu, T. Naing, E.H.N. Myo, T. H. Oo, S. N. Khaing, W. Chan, P. Maung Maung, and S. Wei (2017), Using social media and ground surveys to map the macroseismic effects of the Mw 6.9 Kani and Mw 6.8 Chauk earthquakes of 2016 in Myanmar, AOGS.
 </p>
