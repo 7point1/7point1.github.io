@@ -4,7 +4,7 @@ title: 1954 Adelaide
 description: Revision of the location of the 1 March 1954 Adelaide earthquake in South Australia
 img: assets/img/1-edited.jpg
 importance: 6
-category: fun
+category: catalogue
 ---
 
 Every project has a beautiful feature showcase page.
