@@ -57,7 +57,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-1895-charleston",
           title: '1895 Charleston',
-          description: "Using macroseismic data and observations to determine the true size of the 31 OCtober 1895 Charleston, Missouri, earthquake in the United States",
+          description: "Determining the true size of the 31 OCctober 1895 Charleston, Missouri, earthquake in the United States",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
