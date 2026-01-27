@@ -2,7 +2,7 @@
 layout: page
 title: 1907 Sumatra
 description: Upgrading the magnitude of the 4 January 1907 tsunami earthquake in Indonesia and the Indian Ocean
-img: assets/img/1-edited.jpg
+img: assets/img/1.jpg
 importance: 3
 category: work
 ---
