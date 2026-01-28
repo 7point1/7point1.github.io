@@ -31,8 +31,6 @@ nav_order: 4
 
 <p><b>S.S. Martin</b> (2021), <a href="https://temblor.net/earthquake-insights/representation-matters-in-earthquake-felt-reports-12620/" target="_blank">Representation matters in earthquake ‘felt reports’</a>, <i>Temblor</i>.</p>
 <br>
-<p><b>Talks</b></p>
-<br>
 <p><b>Conferences</b></p>
 <p>(29) Allen, T.I., J.D. Griffin, D. Clark, H. Ghasemi, P. Cummins, R. Ebrahimi, <b>S.S. Martin</b> (2023), <a href="https://ecat.ga.gov.au/geonetwork/srv/api/records/d16b3bf1-fd3a-4dfd-b1af-3e917a7bf10c" target="_blank">Updating the National Seismic Hazard Assessment: philosophy and implications</a>, Australian National Committee on Large Dams (ANCOLD), Cairns, Queensland.
 </p>
