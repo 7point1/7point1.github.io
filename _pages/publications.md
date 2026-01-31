@@ -11,7 +11,7 @@ nav_order: 3
 <br>
 <p>(39) <b>Martin, S.S.</b> (2025), <a href="https://doi.org/10.25911/Y8EJ-MX41" target="_blank">Re-evaluating historical earthquakes in Australia and Indonesia with archival and seismological data</a>, <i>PhD Thesis</i>, Research School of Earth Sciences, Australian National University (ANU).</p>
 
-<p>(38) <b>Martin, S.S.</b>,P.R. Cummins, J.D. Griffin, D. Clark, and T.I. Allen (2024), <a href="https://doi.org/10.1785/0120240029" target="_blank">Resolving the location and magnitude of the 1918 Queensland (Bundaberg), Australia, earthquake</a>, <i>Bulletin of the Seismological Society of America</i>, 114 (6), 3202-3223.</p>
+<p>(38) <b>Martin, S.S.</b>, P.R. Cummins, J.D. Griffin, D. Clark, and T.I. Allen (2024), <a href="https://doi.org/10.1785/0120240029" target="_blank">Resolving the location and magnitude of the 1918 Queensland (Bundaberg), Australia, earthquake</a>, <i>Bulletin of the Seismological Society of America</i>, 114 (6), 3202-3223.</p>
 
 <p>(37) Allen, T.I., J.D. Griffin, D. Clark, P.R. Cummins, H. Ghasemi, R. Ebrahimi, <b>S.S. Martin</b> (2024), <a href="https://ecat.ga.gov.au/geonetwork/srv/api/records/51c79b0e-7063-45f1-9ed1-11e610652563" target="_blank">The 2023 update to the Australian National Seismic Hazard Assessment: Philosophy and model changes</a>, <i>18th World Conference on Earthquake Engineering (WCEE24)</i>, Milan.</p>
 
