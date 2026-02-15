@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/datasets/";
           },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
         },{id: "nav-outreach",
           title: "outreach",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/outreach/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "projects-1918-bundaberg",
           title: '1918 Bundaberg',
