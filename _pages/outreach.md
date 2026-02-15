@@ -6,7 +6,13 @@ description:
 nav: true
 nav_order: 4
 ---
-<p>The following is a complete list of my peer-reviewed publications in reverse chronological order, which mirrors my <a href="https://scholar.google.com/citations?user=rIxOK2oAAAAJ&hl=en" target="_blank"> Google Scholar profile</a>. Each publication links to its page on the related journal's website. If you do not have access to any of these papers via their journal websites, have a look for the paper on my <a href="https://www.researchgate.net/profile/Stacey_Martin9" target="_blank">ResearchGate profile</a> or send me a message there. Papers in preparation, including those from my PhD, will appear as they progress through the review pipeline.
+<p>As a scientist, it is easy to become caught up in burning the midnight oil working on exciting projects, writing papers, dealing with the ups and downs of the review process, and eventually feeling the dopamine hit that is (figuratively) smelling fresh ink on page proofs, before they are <a href="https://7point1.github.io/publications/"</a>committed to print. However, it is equally important to be able to share that knowledge and expertise with the rest of the seismological community and the wider public. 
+  
+  
+  Aside from doing my bit by being a peer-reviewer for well-established seismology journals such as The Bulletin of the Seismological Society of America, Seismological Research Letters, The Bulletin of Earthquake Engineering, and The Journal of Seismolog
+  
+  
+  The following is a complete list of my peer-reviewed publications in reverse chronological order, which mirrors my <a href="https://scholar.google.com/citations?user=rIxOK2oAAAAJ&hl=en" target="_blank"> Google Scholar profile</a>. Each publication links to its page on the related journal's website. If you do not have access to any of these papers via their journal websites, have a look for the paper on my <a href="https://www.researchgate.net/profile/Stacey_Martin9" target="_blank">ResearchGate profile</a> or send me a message there. Papers in preparation, including those from my PhD, will appear as they progress through the review pipeline.
 </p>
 <br>
 <p><b>Community Engagement</b></p>
