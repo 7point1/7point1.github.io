@@ -14,7 +14,7 @@ nav_order: 4
 
 <p><b>Public and Media Engagement</b></p>
 <p>Office of the Inspector General of Emergency Management, Queensland (2025), <a href="https://www.igem.qld.gov.au/research/case-studies/reassessment-1918-queensland-earthquake">Reassessment of 1918 Queensland earthquake</a>.</p>
-<p>Australian Broadcasting Corp (2024): <a href="https://www.abc.net.au/news/2024-08-08/1918-earthquake-epicentre-moved-250km-inland-monto/104193366"> Researchers revise epicentre of 1918 earthquake thought to have struck at sea near Bundaberg</a>.</p>
+<p>ABC News (2024): <a href="https://www.abc.net.au/news/2024-08-08/1918-earthquake-epicentre-moved-250km-inland-monto/104193366"> Researchers revise epicentre of 1918 earthquake thought to have struck at sea near Bundaberg</a>.</p>
 <p>The Conversation (2022), <a href="https://theconversation.com/why-are-shallow-earthquakes-more-destructive-the-disaster-in-java-is-a-devastating-example-195110" target="_blank">Why are shallow earthquakes more destructive? The disaster in Java is a devastating example</a>.</p>
 <p>New Mandala (2022), <a href="https://www.newmandala.org/bridging-historical-archives-and-earthquake-hazard-studies-in-indonesia/" target="_blank">Bridging historical archives and earthquake hazard studies in Indonesia</a>.</p>
 <p>Science Daily (2022): <a href="https://www.sciencedaily.com/releases/2022/07/220712141124.htm"> Haiti's 1860 Jour de Pâques earthquakes may have released strain in key fault zone</a>.</p>
