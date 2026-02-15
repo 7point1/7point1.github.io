@@ -4,7 +4,7 @@ permalink: /outreach/
 title: outreach
 description: 
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 <p>As a scientist, it is easy to become caught up in burning the midnight oil working on exciting projects, writing papers, dealing with the ups and downs of the review process, and eventually feeling the dopamine hit that is (figuratively) smelling fresh ink on page proofs, before they are committed to print. However, it is equally important to share that knowledge and expertise with the rest of the seismological community and the wider public, which is summarised below.</p>
 <br>
