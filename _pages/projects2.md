@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: datasets
+permalink: /datasets/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 5
+nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
