@@ -5,7 +5,7 @@ permalink: /
 subtitle: Seismologist  |  BSc Geology  |  PhD Earth Sciences
 
 profile:
-  align: left
+  align: right
   image: graduation2026.jpg
   image_circular: false # crops the image to make it circular
 
