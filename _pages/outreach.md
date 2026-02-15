@@ -11,19 +11,7 @@ nav_order: 4
 <br>
 <p><b>Community Engagement</b></p>
 <p>
-2025: Office of the Inspector General of Emergency Management, Queensland: <a href="https://www.igem.qld.gov.au/research/case-studies/reassessment-1918-queensland-earthquake">Reassessment of 1918 Queensland earthquake</a>.
-</p>
-<p>2024: Australian Broadcasting Corporation: <a href="https://www.abc.net.au/news/2024-08-08/1918-earthquake-epicentre-moved-250km-inland-monto/104193366"> Researchers revise epicentre of 1918 earthquake thought to have struck at sea near Bundaberg</a></p>
-<p>
-2022: Science Daily: <a href="https://www.sciencedaily.com/releases/2022/07/220712141124.htm"> Haiti's 1860 Jour de Pâques earthquakes may have released strain in key fault zone</a>.
-</p>
-<p>
-2021: Unted States Geological Survey media: <a href="https://www.usgs.gov/news/featured-story/whos-sharing-inconsistent-eyewitness-accounts-can-affect-how-we-understand"> Studying earthquakes through eyewitnesses can be tricky</a>.
-</p>
-<p></p>
-<br>
-<p>
-<b>Op-eds</b>
+S.S. Martin (2025),  <a href="https://www.igem.qld.gov.au/research/case-studies/reassessment-1918-queensland-earthquake">Reassessment of 1918 Queensland earthquake</a>Office of the Inspector General of Emergency Management, Queensland.
 </p>
 <p>P. Cummins, M. Daryono, and <b>S.S. Martin</b> (2022), <a href="https://theconversation.com/why-are-shallow-earthquakes-more-destructive-the-disaster-in-java-is-a-devastating-example-195110" target="_blank">Why are shallow earthquakes more destructive? The disaster in Java is a devastating example</a>, <i>The Conversation</i>.</p>
 
@@ -31,6 +19,17 @@ nav_order: 4
 
 <p><b>S.S. Martin</b> (2021), <a href="https://temblor.net/earthquake-insights/representation-matters-in-earthquake-felt-reports-12620/" target="_blank">Representation matters in earthquake ‘felt reports’</a>, <i>Temblor</i>.</p>
 <br>
+
+<br>
+<p><b>Community Engagement</b></p>
+<p>2024: Australian Broadcasting Corporation: <a href="https://www.abc.net.au/news/2024-08-08/1918-earthquake-epicentre-moved-250km-inland-monto/104193366"> Researchers revise epicentre of 1918 earthquake thought to have struck at sea near Bundaberg</a></p>
+<p>
+2022: Science Daily: <a href="https://www.sciencedaily.com/releases/2022/07/220712141124.htm"> Haiti's 1860 Jour de Pâques earthquakes may have released strain in key fault zone</a>.
+</p>
+<p>
+2021: Unted States Geological Survey media: <a href="https://www.usgs.gov/news/featured-story/whos-sharing-inconsistent-eyewitness-accounts-can-affect-how-we-understand"> Studying earthquakes through eyewitnesses can be tricky</a>.
+</p>
+
 <p><b>Conferences</b></p>
 <p>(29) Allen, T.I., J.D. Griffin, D. Clark, H. Ghasemi, P. Cummins, R. Ebrahimi, <b>S.S. Martin</b> (2023), <a href="https://ecat.ga.gov.au/geonetwork/srv/api/records/d16b3bf1-fd3a-4dfd-b1af-3e917a7bf10c" target="_blank">Updating the National Seismic Hazard Assessment: philosophy and implications</a>, Australian National Committee on Large Dams (ANCOLD), Cairns, Queensland.
 </p>
