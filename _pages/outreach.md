@@ -10,7 +10,7 @@ nav_order: 4
 <br>
 
 <p><b>Community Service</b></p>
-I have served as a peer reviewer for well-established seismology journals such as The Bulletin of the Seismological Society of America, Seismological Research Letters, The Bulletin of Earthquake Engineering, and The Journal of Seismology. I have also co-chaired scientific panels at the AGU conference in 2016 and a session on Archeoseismology and Historical Earthquakes at the <a href="https://patadays-2022.sciencesconf.org/resource/page/id/6.html?lang=en" target="_blank">International Workshop on Paleoseismology, Active Tectonics and Archeoseismology (PATAdays) conference in 2022.</p>
+I have served as a peer reviewer for well-established seismology journals such as The Bulletin of the Seismological Society of America, Seismological Research Letters, The Bulletin of Earthquake Engineering, and The Journal of Seismology. I have also co-chaired scientific panels at the AGU conference in 2016 on <a href="https://agu.confex.com/agu/fm16/meetingapp.cgi/Session/12956" target="_blank">Macroseismic Data: Challenges, Opportunities, and Insights"</a> and a session on <a href="a href="https://patadays-2022.sciencesconf.org/resource/page/id/6.html?lang=en" target="_blank">Archeoseismology and Historical Earthquakes"</a> at the International Workshop on Paleoseismology, Active Tectonics and Archeoseismology (PATAdays) conference in 2022.</p>
 <br>
 <p><b>Public and Media Engagement</b></p>
 <p><b>S.S. Martin</b> (2025),  <a href="https://www.igem.qld.gov.au/research/case-studies/reassessment-1918-queensland-earthquake">Reassessment of 1918 Queensland earthquake</a>, Office of the Inspector General of Emergency Management, Queensland.
