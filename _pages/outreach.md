@@ -20,7 +20,6 @@ nav_order: 4
 <p><b>S.S. Martin</b> (2021), <a href="https://temblor.net/earthquake-insights/representation-matters-in-earthquake-felt-reports-12620/" target="_blank">Representation matters in earthquake ‘felt reports’</a>, <i>Temblor</i>.</p>
 <br>
 
-<br>
 <p><b>Media Engagement</b></p>
 <p>2024: Australian Broadcasting Corporation: <a href="https://www.abc.net.au/news/2024-08-08/1918-earthquake-epicentre-moved-250km-inland-monto/104193366"> Researchers revise epicentre of 1918 earthquake thought to have struck at sea near Bundaberg</a></p>
 <p>
@@ -29,6 +28,7 @@ nav_order: 4
 <p>
 2021: Unted States Geological Survey media: <a href="https://www.usgs.gov/news/featured-story/whos-sharing-inconsistent-eyewitness-accounts-can-affect-how-we-understand"> Studying earthquakes through eyewitnesses can be tricky</a>.
 </p>
+<br>
 
 <p><b>Conferences</b></p>
 <p>(29) Allen, T.I., J.D. Griffin, D. Clark, H. Ghasemi, P. Cummins, R. Ebrahimi, <b>S.S. Martin</b> (2023), <a href="https://ecat.ga.gov.au/geonetwork/srv/api/records/d16b3bf1-fd3a-4dfd-b1af-3e917a7bf10c" target="_blank">Updating the National Seismic Hazard Assessment: philosophy and implications</a>, Australian National Committee on Large Dams (ANCOLD), Cairns, Queensland.
