@@ -11,7 +11,7 @@ nav_order: 4
 <br>
 <p><b>Community Engagement</b></p>
 <p>
-S.S. Martin (2025),  <a href="https://www.igem.qld.gov.au/research/case-studies/reassessment-1918-queensland-earthquake">Reassessment of 1918 Queensland earthquake</a>Office of the Inspector General of Emergency Management, Queensland.
+<b>S.S. Martin</b> (2025),  <a href="https://www.igem.qld.gov.au/research/case-studies/reassessment-1918-queensland-earthquake">Reassessment of 1918 Queensland earthquake</a>Office of the Inspector General of Emergency Management, Queensland.
 </p>
 <p>P. Cummins, M. Daryono, and <b>S.S. Martin</b> (2022), <a href="https://theconversation.com/why-are-shallow-earthquakes-more-destructive-the-disaster-in-java-is-a-devastating-example-195110" target="_blank">Why are shallow earthquakes more destructive? The disaster in Java is a devastating example</a>, <i>The Conversation</i>.</p>
 
