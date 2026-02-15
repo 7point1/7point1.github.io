@@ -6,21 +6,22 @@ description:
 nav: true
 nav_order: 4
 ---
-<p>As a scientist, it is easy to become caught up in burning the midnight oil working on exciting projects, writing papers, dealing with the ups and downs of the review process, and eventually feeling the dopamine hit that is (figuratively) smelling fresh ink on page proofs, before they are <a href="https://7point1.github.io/publications/" targer="_blank>committed to print. However, it is equally important to share that knowledge and expertise with the rest of the seismological community and the wider public.</p>
+<p>As a scientist, it is easy to become caught up in burning the midnight oil working on exciting projects, writing papers, dealing with the ups and downs of the review process, and eventually feeling the dopamine hit that is (figuratively) smelling fresh ink on page proofs, before they are <a href="https://7point1.github.io/publications/" target="_blank">committed to print. However, it is equally important to share that knowledge and expertise with the rest of the seismological community and the wider public.</p>
 
 <br>
 <p><b>Community Service</b></p>
-I have served as a peer reviewer for well-established seismology journals such as The Bulletin of the Seismological Society of America, Seismological Research Letters, The Bulletin of Earthquake Engineering, and The Journal of Seismology. I have also co-chaired scientific panels at the AGU conference in 2016 and a session on Archeoseismology and Historical Earthquakes at the <a href="https://patadays-2022.sciencesconf.org/resource/page/id/6.html?lang=en">International Workshop on Paleoseismology, Active Tectonics and Archeoseismology (PATAdays) conference in 2022. 
-PATAdays conference in 2022.
+I have served as a peer reviewer for well-established seismology journals such as The Bulletin of the Seismological Society of America, Seismological Research Letters, The Bulletin of Earthquake Engineering, and The Journal of Seismology. I have also co-chaired scientific panels at the AGU conference in 2016 and a session on Archeoseismology and Historical Earthquakes at the <a href="https://patadays-2022.sciencesconf.org/resource/page/id/6.html?lang=en" target="_blank">International Workshop on Paleoseismology, Active Tectonics and Archeoseismology (PATAdays) conference in 2022.
 </p>
 <br>
 <p><b>Public and Media Engagement</b></p>
-<p>
-<b>S.S. Martin</b> (2025),  <a href="https://www.igem.qld.gov.au/research/case-studies/reassessment-1918-queensland-earthquake">Reassessment of 1918 Queensland earthquake</a>, Office of the Inspector General of Emergency Management, Queensland.
+<p><b>S.S. Martin</b> (2025),  <a href="https://www.igem.qld.gov.au/research/case-studies/reassessment-1918-queensland-earthquake">Reassessment of 1918 Queensland earthquake</a>, Office of the Inspector General of Emergency Management, Queensland.
 </p>
-<p>P. Cummins, M. Daryono, and <b>S.S. Martin</b> (2022), <a href="https://theconversation.com/why-are-shallow-earthquakes-more-destructive-the-disaster-in-java-is-a-devastating-example-195110" target="_blank">Why are shallow earthquakes more destructive? The disaster in Java is a devastating example</a>, <i>The Conversation</i>.</p>
-
-<p><b>S.S. Martin</b> (2022), <a href="https://www.newmandala.org/bridging-historical-archives-and-earthquake-hazard-studies-in-indonesia/" target="_blank">Bridging historical archives and earthquake hazard studies in Indonesia</a>, <i>New Mandala</i>.</p>
+<p>
+P. Cummins, M. Daryono, and <b>S.S. Martin</b> (2022), <a href="https://theconversation.com/why-are-shallow-earthquakes-more-destructive-the-disaster-in-java-is-a-devastating-example-195110" target="_blank">Why are shallow earthquakes more destructive? The disaster in Java is a devastating example</a>, <i>The Conversation</i>.
+</p>
+<p>
+<b>S.S. Martin</b> (2022), <a href="https://www.newmandala.org/bridging-historical-archives-and-earthquake-hazard-studies-in-indonesia/" target="_blank">Bridging historical archives and earthquake hazard studies in Indonesia</a>, <i>New Mandala</i>.
+</p>
 
 <p><b>S.S. Martin</b> (2021), <a href="https://temblor.net/earthquake-insights/representation-matters-in-earthquake-felt-reports-12620/" target="_blank">Representation matters in earthquake ‘felt reports’</a>, <i>Temblor</i>.</p>
 <br>
