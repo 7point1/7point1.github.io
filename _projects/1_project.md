@@ -8,73 +8,36 @@ category: historical
 related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# The 1918 Queensland Earthquake (2024 BSSA)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<p align="justify">  
+The 7 June 1918 Queensland earthquake in Australia was re-evaluated in a recent study by <b>Martin <i>et al.</i> (2024)</b> using original materials such as seismograms and now out-of-print newspapers. A list of the newspapers consulted from New South Wales (NSW) and Queensland (QLD) are listed in <b>Table S1</b>. The observations extracted from these primary sources were used to assign macroseismic intensity using Modified Mercalli Intensity (MMI) for the mainshock in <b>Table S2</b>. We also include media-based observations for the 2015 Eidsvold earthquake in <b>Table S3</b>. These are denoted by colour-coded tabs in the spreadsheet associated with this dataset. These are summarized below and can be cross-referenced with each other. Other supplementary material such as archival correspondence and Supplementary Figure S1 can be found here. Any subsequent versions or updates to this database will be hosted in this GitHub Repository (https://github.com/7point1/1918-Queensland/). </b>The complete citation for this database is the <b>Martin <i>et al.</i> (2024)</b> research paper in BSSA recorded below.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+#### Citing this Dataset:
+><p align="left">S.S. Martin, P.R. Cummins J.D. Griffin, D. Clark and T.I. Allen (2024), Resolving the location and magnitude of the 1918 Queensland (Bundaberg) Earthquake, Australia, <i>Bulletin of the Seismological Society of America</i> (BSSA), https://doi.org/10.1785/0120240029.
+></p>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+![332062381-1daca3f8-2ab8-4740-b0b7-57480ff1beac](https://github.com/user-attachments/assets/fe29e142-5279-4f00-8a56-702ccfe4a6f4)
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+#### Table S1: Newspapers (yellow tab)
+><p align="justify">
+>This table indexes all 52 newspapers consulted during this study. It lists the name of the publication (<b>column B</b>), the location it was published from (<b>column C</b>) including the state (<b>column D</b>) being New South Wales (NSW) or Queensland (QLD). We also note if this newspaper is available (as of December 2023) via Trove (<b>column E</b>) along with the library holding the hard-copy (<b>column F</b>) and the relevant shelfmark (<b>Column G</b>). The two libraries with newspaper holdings were the State Library of New South Wales (SL-NSW) and the State Library of Queensland (SL-QLD). We mark entries that were also consulted by Jack Rynn, with an "R" (<b>column H</b>). A dash (-) indicates a publication only consulted by us in this study and not previously by Rynn.
+></p>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+#### Table S2: 1918 Mainshock intensities (orange tab)
+><p align="justify">
+>This table records all 224 macroseismic intensity observations for the 1918 mainshock at 4:14 AM LT. Each intensity data point (IDP) is assigned a unique alphanumeric identifier (<b>column A</b>) followed by latitude (<b>column B</b>) and longitude (<b>column C</b>) co-ordinates and a NEHRP site class (<b>column D</b>) from McPherson (2017). Each location (<b>column J</b>) is assigned a macroseismic intensity (<b>column E</b>), a minimum (<b>column F</b>) and maximum range (<b>column G</b>) for each numeric intensity, and a qualitative uncertainty (<b>column H</b>) from Musson (1998). For completeness, we also record the MMI intensity assigned by Jack Rynn, if available (<b>column I</b>). The time (<b>column K</b>), a summary of the observations (<b>column L</b>) and the sources of these observations (<b>column M</b>) are also recorded here.</p>
 
-{% raw %}
+#### Table S3: 2015 Eidsvold earthquake intensities (green tab)
+><p align="justify">
+>This table records all 291 macroseismic intensity observations for the 2015 Eidsvold earthquake. Each intensity data point (IDP) is assigned a unique alphanumeric identifier (<b>column A</b>) followed by latitude (<b>column B</b>) and longitude (<b>column C</b>) co-ordinates. Each location (<b>column H</b>) is assigned a macroseismic intensity (<b>column D</b>), a minimum (<b>column E</b>) and maximum range (<b>column F</b>) for each numeric intensity, and a qualitative uncertainty (<b>column G</b>) from Musson (1998). A summary of the observations (<b>column I</b>) and the sources of these observations (<b>column J</b>) are also recorded here. Original accounts are from the social media pages of news outlets. These observations were not corrected for spelling or grammar. Please note: Some of the times in <b>column I</b> are incorrect and stem from incorrect daylight savings corrections which give the impression there were two earthquakes.
+></p>
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+#### Supplementary Material
+><p align="justify">
+><b>Supplementary Material 1</b> links to Tables S1 to S3 described above. <b>Supplementary Material 2</b> documents correspondence between Walter Bryan and Leo Cotton (Sydney Observatory) and Father William O’Leary (Riverview College Observatory) between 24 May 1935 and 11 June 1935. <b>Supplementary Material 3</b> presents Jack Rynn’s unpublished abstract to an unpublished article on the 1918 earthquake. Scribbled notes are by Jack Rynn himself. <b>Supplementary Material 4</b> presents Jack Rynn’s correspondence relating to the 1918 earthquake. <b>Supplementary Material 5</b> presents Jack Rynn’s workbook for the 1918 earthquake that tallies places where the earthquake was felt along with newspaper references for these locations. It also tallies Modified Mercalli Intensities for those locations assigned by Jack Rynn. <b>Supplementary Material 6</b> are Jack Rynn's hand-written or computer sheets relating to his epicentre calculations/estimates.
+></p>
 </div>
 ```
 
