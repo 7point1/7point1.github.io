@@ -41,7 +41,7 @@ ninja.data = [{
           title: '1918 Bundaberg',
           description: "Macroseismic and seismological review of the 6 June 1918 Bundaberg earthquake in Queensland, Australia",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/19180607-queensland/";
+              window.location.href = "/projects/1918-queensland/";
             },},{id: "projects-1918-bundaberg",
           title: '1918 Bundaberg',
           description: "Macroseismic and seismological review of the 6 June 1918 Bundaberg earthquake in Queensland, Australia",
