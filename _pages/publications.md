@@ -9,6 +9,8 @@ nav_order: 4
 <p>The following is a complete list of my peer-reviewed publications in reverse chronological order, which mirrors my <a href="https://scholar.google.com/citations?user=rIxOK2oAAAAJ&hl=en" target="_blank"> Google Scholar profile</a>. Each publication links to its page on the related journal's website. If you do not have access to any of these papers, have a look for the paper on my <a href="https://www.researchgate.net/profile/Stacey_Martin9" target="_blank">ResearchGate profile</a> or send me a message on <a href="https://www.linkedin.com/in/7point1/" target="_blank">LinkedIn</a> and I will happily share it with you. Papers that are in preparation, including those from my PhD, will appear as they progress through the review pipeline.
 </p>
 <br>
+<p>(40) Krause, L., and <b> S.S. Martin</b> (2026), <a href="https://doi.org/10.25911/Y8EJ-MX41" target="_blank">“I felt the world wobble”: Macroseismic observations from the 1941 Meeberrie earthquake</a>, <i>Australian Earthquake Engineering Society Conference</i>, Launceston, Tasmania.</p>
+
 <p>(39) <b>Martin, S.S.</b> (2025), <a href="https://doi.org/10.25911/Y8EJ-MX41" target="_blank">Re-evaluating historical earthquakes in Australia and Indonesia with archival and seismological data</a>, <i>PhD Thesis</i>, Research School of Earth Sciences, Australian National University (ANU).</p>
 
 <p>(38) <b>Martin, S.S.</b>, P.R. Cummins, J.D. Griffin, D. Clark, and T.I. Allen (2024), <a href="https://doi.org/10.1785/0120240029" target="_blank">Resolving the location and magnitude of the 1918 Queensland (Bundaberg), Australia, earthquake</a>, <i>Bulletin of the Seismological Society of America</i>, 114 (6), 3202-3223.</p>
